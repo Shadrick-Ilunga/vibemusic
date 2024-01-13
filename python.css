@@ -1,0 +1,368 @@
+h1{
+	text-align: center;
+	background-color: aliceblue;
+	margin: 0;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-family: lucida console;
+
+}
+body{
+	font-family: latha;
+}
+hr{
+	background-color: aliceblue;
+	border: 1px solid black;
+	padding: 1px;
+	margin-top: 3px;
+}
+dav{
+	margin: 8px;
+	background-color: aliceblue;
+	border-radius: 4px;
+}
+#music{
+	background-color: #6c0000a6;
+	padding: 0 30px;
+}
+#school{
+	background-color: lightblue;
+	padding: 0 30px;
+}
+#soccer{
+	background-color: gold;
+	padding: 0 30px;
+}
+#html{
+	background-color: #FAEBD7;
+	padding: 0 30px;
+}
+#python{
+	background-color: white;
+	border: 2px solid aliceblue;
+	padding: 0 30px;
+}
+#hacking{
+	background-color: black;
+	color: white;
+	padding: 0 30px;
+}
+#other{
+	background-color: lightgreen;
+	padding: 0 30px;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+#slice{
+	background-color: aliceblue;
+	border: 1px solid black;
+	padding: 50%;
+	border-radius: 5px;
+}
+@media only screen and (min-width:1270px){
+	dav{
+		margin-left: 50px;
+	}
+}
+@media only screen and (min-width:1200px) and (max-width:1269px){
+	dav{
+		margin-left: 40px;
+	}
+}
+@media only screen and (min-width:1100px) and (max-width:1199px){
+	dav{
+		margin-left: 25px;
+	}
+}
+@media only screen and (min-width:800px) and (max-width:1099px){
+	dav{
+		margin-left: 12px;
+		font-size: 13px;
+	}
+	#music{
+		padding:0 20px;
+	}
+	#school{
+		padding: 0 20px;
+	}
+	#soccer{
+		padding: 0 20px;
+	}
+	#html{
+		padding: 0 20px;
+	}
+	#python{
+		padding: 0 20px;
+	}
+	#hacking{
+		padding: 0 20px;
+	}
+	#other{
+		padding: 0 20px;
+	}
+}
+@media only screen and (max-width:799px) and (min-width:756px){
+	dav{
+		margin-left: 17px;
+	}
+	#music{
+		padding:0 10px;
+	}
+	#school{
+		padding: 0 10px;
+	}
+	#soccer{
+		padding: 0 10px;
+	}
+	#html{
+		padding: 0 10px;
+	}
+	#python{
+		padding: 0 10px;
+	}
+	#hacking{
+		padding: 0 10px;
+	}
+	#other{
+		padding: 0 10px;
+	}
+}
+@media only screen and (max-width:755px) and (min-width:728px){
+	dav{
+		margin-left: 13px;
+	}
+	#music{
+		padding:0 10px;
+	}
+	#school{
+		padding: 0 10px;
+	}
+	#soccer{
+		padding: 0 10px;
+	}
+	#html{
+		padding: 0 10px;
+	}
+	#python{
+		padding: 0 10px;
+	}
+	#hacking{
+		padding: 0 10px;
+	}
+	#other{
+		padding: 0 10px;
+	}
+}
+@media only screen and (max-width:727px) and (min-width:707px){
+	dav{
+		margin-left: 10px;
+	}
+	#music{
+		padding:0 10px;
+	}
+	#school{
+		padding: 0 10px;
+	}
+	#soccer{
+		padding: 0 10px;
+	}
+	#html{
+		padding: 0 10px;
+	}
+	#python{
+		padding: 0 10px;
+	}
+	#hacking{
+		padding: 0 10px;
+	}
+	#other{
+		padding: 0 10px;
+	}
+}
+@media only screen and (max-width:706px) and (min-width:596px){
+	dav{
+		margin-left: 8px;
+		font-size:12px;
+	}
+	body{
+		font-size: 14px;
+	}
+	#music{
+		padding:0 10px;
+	}
+	#school{
+		padding: 0 10px;
+	}
+	#soccer{
+		padding: 0 10px;
+	}
+	#html{
+		padding: 0 10px;
+	}
+	#python{
+		padding: 0 10px;
+	}
+	#hacking{
+		padding: 0 10px;
+	}
+	#other{
+		padding: 0 10px;
+	}
+}
+@media only screen and (max-width:595px) and (min-width:450px){
+	dav{
+		margin-left: 3px;
+		font-size: 12px;
+	}
+	body{
+		font-size: 14px;
+	}
+	#music{
+		padding:0 5px;
+	}
+	#school{
+		padding: 0 5px;
+	}
+	#soccer{
+		padding: 0 5px;
+	}
+	#html{
+		padding: 0 5px;
+	}
+	#python{
+		padding: 0 5px;
+	}
+	#hacking{
+		padding: 0 5px;
+	}
+	#other{
+		padding: 0 5px;
+	}
+}
+@media only screen and (max-width:490px) and (min-width:400px){
+	dav{
+		margin-left: 2px;
+		font-size: 12px;
+		margin-right: 5px;
+	}
+	body{
+		font-size: 13px;
+	}
+	#music{
+		padding:0 5px;
+	}
+	#school{
+		padding: 0 5px;
+	}
+	#soccer{
+		padding: 0 5px;
+	}
+	#html{
+		padding: 0 5px;
+	}
+	#python{
+		padding: 0 5px;
+	}
+	#hacking{
+		padding: 0 5px;
+	}
+	#other{
+		padding: 0 5px;
+	}
+}
+@media only screen and (max-width:463px) and (min-width:400px){
+	dav{
+		margin-left: 2px;
+		font-size: 12px;
+		margin-right: 4px;
+	}
+	body{
+		font-size: 13px;
+	}
+	#music{
+		padding:0 3px;
+	}
+	#school{
+		padding: 0 3px;
+	}
+	#soccer{
+		padding: 0 3px;
+	}
+	#html{
+		padding: 0 3px;
+	}
+	#python{
+		padding: 0 3px;
+	}
+	#hacking{
+		padding: 0 3px;
+	}
+	#other{
+		padding: 0 3px;
+	}
+}
+@media only screen and (max-width:427px) and (min-width:300px){
+	dav{
+		margin-left: 0;
+		font-size: 11px;
+		margin-right: 4px;
+	}
+	body{
+		font-size: 10px;
+	}
+	#music{
+		padding:0 3px;
+	}
+	#school{
+		padding: 0 3px;
+	}
+	#soccer{
+		padding: 0 3px;
+	}
+	#html{
+		padding: 0 3px;
+	}
+	#python{
+		padding: 0 3px;
+	}
+	#hacking{
+		padding: 0 3px;
+	}
+	#other{
+		padding: 0 3px;
+	}
+}
+@media only screen and (max-width:398px) and (min-width:100px){
+	dav{
+		margin-left: 0;
+		font-size: 10px;
+		margin-right: 4px;
+	}
+	body{
+		font-size: 10px;
+	}
+	#music{
+		padding:0 3px;
+	}
+	#school{
+		padding: 0 3px;
+	}
+	#soccer{
+		padding: 0 3px;
+	}
+	#html{
+		padding: 0 3px;
+	}
+	#python{
+		padding: 0 3px;
+	}
+	#hacking{
+		padding: 0 3px;
+	}
+	#other{
+		padding: 0 3px;
+	}
+}
+
