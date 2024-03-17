@@ -34,6 +34,7 @@ body{
 	font-family: latha;
 }
 hr{
+	border: 1px solid black;
 	background-color: #6c0000a6;
 	padding: 1px;
 	margin-top: 3px;
