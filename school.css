@@ -24,6 +24,12 @@ body{
 	padding: 1px;
 	margin:3px;
 }*/
+hr{
+	border: 1px solid black;
+	background-color:  gold;
+	padding: 1px;
+	margin-top: 3px;
+}
 dav{
 	margin: 8px;
 	background-color: lightblue;
