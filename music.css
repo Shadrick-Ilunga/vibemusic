@@ -18,16 +18,16 @@ h1{
 	margin: 2px; 
 }
 
-nav{
+/*nav{
 	background-color: #6c0000a6;
-	/*padding:100%;*/
-	/*padding-right:0;*/
+	padding:100%;
+	padding-right:0;
 	border-radius: 5px;
-	/*border-collapse: 76%;*/
-}
+	border-collapse: 76%;
+}*/
 #slice{
 	background-color : #6c0000a6;
-	padding : 50%;
+	padding : 100%;
     border: 1px solid black;
 }
 body{
